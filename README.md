@@ -2,8 +2,8 @@
 # DocsifyJS Template homepage
 > A quickstart template for a markdown-based docs site
 
-[[Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
-[[GNU GENERAL PUBLIC LICENSE](https://img.shields.io/badge/License-GNU-blue.svg)](https://github.com/RajviS1904/Resources/blob/master/LICENSE)
+[![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
+[![GNU GENERAL PUBLIC LICENSE](https://img.shields.io/badge/License-GNU-blue.svg)](https://github.com/RajviS1904/Resources/blob/master/LICENSE)
 
 ## About
 
