@@ -18,6 +18,7 @@ Welcome to Bioinformatics Resources Repository. I will be compiling important Bi
 4. ICTP had organized a 7 day workshop on Molecular Dynamics and its Applications to Biological Systems. Check out the youtube playlist [here](https://www.youtube.com/watch?v=HwQD3zpJfbM&list=PLYc-eBoIpXTKdQNwGZSeFoAPxoGjqB22_)
 5. Dr. Ben Langmead has compiled his Teaching materials [here](http://www.langmead-lab.org/teaching-materials/). He explains Algorithms for DNA Sequencing on Coursera. Alongwith this he has multiple resources related to Computational Genomics and C programming.
 6. RNA-Seq Tutorial Compiled by Griffith Lab can be accessed [here](https://rnabio.org/)
+7. A bioinformatics workbook to help design experiments and analyze respective data. [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
 
 ## Courses
 
