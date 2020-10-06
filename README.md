@@ -8,6 +8,7 @@ Welcome to Bioinformatics Resources Repository. I will be compiling important Bi
 2. Bioinformatics Data Skills by Vince Buffalo [Paid Book](https://www.oreilly.com/library/view/bioinformatics-data-skills/9781449367480/)
 3. Python Programming for Biology Bioinformatics and Beyond [Book](https://www.academia.edu/38935090/Pdf_Python_Programming_For_Biology_Bioinformatics_And_Beyond_DOC_JD)
 4. Download "Python for Bioinformatics" [Book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiMkLqh1YjsAhXt4nMBHTP9AecQFjADegQIARAB&url=http%3A%2F%2Fbiology.hunter.cuny.edu%2Fcellbio%2FPython%25EF%2580%25A8%2FPYTHON%2520FOR%2520BIOINFORMATICS.pdf&usg=AOvVaw3D2vCMOnixriEThvRpCMfR)
+5. Basics of Bioinformatics: Lecture Notes of the Graduate Summer School on Bioinformatics of China [Book](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiYmoz5uKDsAhXCR30KHRBJCIwQFjAOegQIAxAC&url=https%3A%2F%2Fcourses.cs.ut.ee%2FMTAT.03.242%2F2017_fall%2Fuploads%2FMain%2FBasics_of_Bioinformatics.pdf&usg=AOvVaw0oWrEFuUOiYaxKiBAi9TpT)
 
 
 ## Web Resources
